@@ -9,3 +9,6 @@ The code simulation of the model contains 3 files:-
 - <u>[Python file](https://github.com/KrishnaAggarwal2003/Hodgkin-Huxley-model/blob/main/hh_file.py) </u> -- This file contains the OOP code of the model, Please refer this file for all the equations used in the model.
 
 - <u>[Execution file](https://github.com/KrishnaAggarwal2003/Hodgkin-Huxley-model/blob/main/main.ipynb)</u> -- This file is for the model simulation, this file contains four result plots, of Voltage and gating variables.
+
+
+Thanks & Regards
